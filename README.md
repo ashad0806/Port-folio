@@ -41,7 +41,7 @@ npm start
 
 5. Open the site:
 
-Visit `http://localhost:3000`
+Visit `https://ashad0806.github.io/Port-folio/`
 
 ## Contact Form
 
